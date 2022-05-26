@@ -1,2 +1,2 @@
 # Vipesht_Ansible
-This repo is to store ansible playbooks
+This repo is to store Ansible Playbooks.
